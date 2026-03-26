@@ -41,18 +41,11 @@
 
 ## 📬 Contact
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leesuhwan1445)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leesuhwan435)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leesuhwan1445)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leesuhwan1445&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leesuhwan1445&layout=compact&theme=tokyonight)
-
----
 
 *「今日できることを、今日やる。」*  
 *"오늘 할 수 있는 것을, 오늘 한다."*
